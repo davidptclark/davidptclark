@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <p align="center">
-  <a href="me">
-<img src="./images/me.jpg" width="500">
+  <a>
+<img src="./images/me.jpg" width="400">
   </a>
 </p>
 
