@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm David 👋🏼 🧑🏻‍💻
 
 <p align="center">
   <a>
