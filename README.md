@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<p align="center">
+  <a href="me">
+<img src="./images/me.jpg" width="500">
+  </a>
+</p>
+
 <!--
 **davidptclark/davidptclark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
