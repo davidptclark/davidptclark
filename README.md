@@ -6,6 +6,8 @@
   </a>
 </p>
 
+I'm a full‐stack engineer trained at the Northcoders bootcamp with a portfolio demonstrating skills in both front and back‐end technologies. I am passionate about creating software that is both meaningful and impactful within industry, as well as addressing and alleviating issues within society.
+
 ---
 
 <!--
