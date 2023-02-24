@@ -8,9 +8,9 @@
   </a>
 </p>
 
-I'm a full‐stack engineer trained at the Northcoders bootcamp with a portfolio demonstrating skills in both front and back‐end technologies. I am passionate about creating software that is both meaningful and impactful within industry, as well as addressing and alleviating issues within society.
+I'm a Software Engineer with BAE Systems Digital Intelligence. I am passionate about creating software that is both meaningful and impactful within industry, as well as addressing and alleviating issues within society.
 
-- 🔭 I’m currently working on full-stack apps building on my time at Northcoders
+<!--🔭 I’m currently working on full-stack apps building on my time at Northcoders-->
 - 🌱 I’m currently learning: ML methods using Tensorflow | Serverless framework
 - 💬 Ask me about: software development and data science
 - 📫 How to reach me: [Email](mailto:david.p.t.clark@gmail.com) or [LinkedIn](https://www.linkedin.com/in/davidptclark/)
